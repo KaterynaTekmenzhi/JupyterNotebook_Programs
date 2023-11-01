@@ -1,8 +1,8 @@
-# jupyternotebook
+## jupyternotebook
 
-The files contained in this repositary are fun games and projects practicing the functions and modules in Python.
+# The files contained in this repositary are fun games and projects practicing the functions and modules in Python.
 
-Collectively all the files go over these basic concepts of jupyter notebook/python programming language.
+# Collectively all the files go over these basic concepts of jupyter notebook/python programming language.
 
 Knowledge objectives
 - identify what resources are needed to write and run a Python program
@@ -69,19 +69,19 @@ sort(), min(), max(), choice(), shuffle(), and deepcopy().6. Differentiate betwe
 - handle a single exception
 - handle multiple exceptions
 
-work with floating point numbers
-use the math module
-how to use the format() method of a string
-how to use the locale module
-use the round() function
-how to use the decimal module
-reference a particular index of a string
-slice a string
-search a string
-loop through characters in a string
-use basic string methods
-find and replace parts of a string
-split a string into a list of strings
-join strings
+- work with floating point numbers
+- use the math module
+- how to use the format() method of a string
+- how to use the locale module
+- use the round() function
+- how to use the decimal module
+- reference a particular index of a string
+- slice a string
+- search a string
+- loop through characters in a string
+- use basic string methods
+- find and replace parts of a string
+- split a string into a list of strings
+- join strings
 
-Click on any file and run the code to play a game and apply these exact skills!
+## Click on any file and run the code to play a game and apply these exact skills!
