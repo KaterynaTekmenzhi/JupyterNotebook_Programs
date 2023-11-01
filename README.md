@@ -1,8 +1,8 @@
-## jupyternotebook
+# jupyternotebook
 
-# The files contained in this repositary are fun games and projects practicing the functions and modules in Python.
+### The files contained in this repositary are fun games and projects practicing the functions and modules in Python.
 
-# Collectively all the files go over these basic concepts of jupyter notebook/python programming language.
+### Collectively all the files go over these basic concepts of jupyter notebook/python programming language.
 
 Knowledge objectives
 - identify what resources are needed to write and run a Python program
