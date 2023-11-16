@@ -84,4 +84,12 @@ sort(), min(), max(), choice(), shuffle(), and deepcopy().6. Differentiate betwe
 - split a string into a list of strings
 - join strings
 
+### [Book Program](Programs/Book_Catalog_Program.ipynb) and [Movie Program](Programs/Create_Account_program.ipynb)
+- create a dictionary
+- retrieve, set and add items to a dictionary
+- delete items from a dictionary
+- loop through keys and values
+- convert between dictionaries and lists
+- use dictionaries with complex objects as values
+
 ## Click on any file and run the code to play a game and apply these exact skills!
