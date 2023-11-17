@@ -1,10 +1,10 @@
 # jupyternotebook
 
-### The files contained in this repositary are fun games and projects practicing the functions and modules in Python.
+### <center>The files contained in this repositary are fun games and projects practicing the functions and modules in Python. Collectively all the files go over these basic concepts of jupyter notebook/python programming language.</center>
 
-### Collectively all the files go over these basic concepts of jupyter notebook/python programming language.
+<center>Knowledge objectives</center>
 
-Knowledge objectives
+### [Begining Guide to Python](BasicPython.ipynb)
 - identify what resources are needed to write and run a Python program
 - use a code editor
 - write your first Python program
@@ -15,6 +15,7 @@ Knowledge objectives
 - ask for user input
 - assign user input to a variable
 
+### [Measurable Games](MeasurableGames.ipynb)
 - create statements to perform arithmetic 
 - join strings together
 - use the print() and input() functions
@@ -27,6 +28,7 @@ Knowledge objectives
 - code for statements
 - use break and continue statements
 
+### [Guess the Number Game](GuessTheNumberGame.ipynb)
 - define a function
 - call a function
 - call a main() function
@@ -38,6 +40,7 @@ Knowledge objectives
 - import a module
 - use the random module
 
+### [Test Scores and Movie List](ListGames.ipynb)
 - create a simple test plan to test a program
 - create a list 
 - get and set items in a list
@@ -49,15 +52,7 @@ Knowledge objectives
 - copy and slice a list
 - know the difference between a list and a tuple
 
-- Describe how an item in a list is accessed.
-- Describe the use of these list methods: append(), insert(), remove(), index(), and pop().
-- Distinguish between the way mutable types like a list are passed to and returned by functions and the way immutable types like integers are passed to and returned by functions.
-- Describe the use of a list of lists.
-- Describe the use of these functions with lists: count(), reverse(),
-sort(), min(), max(), choice(), shuffle(), and deepcopy().6. Differentiate between a shallow copy of a list and a deep copy.
-- Distinguish between a tuple and a list.
-- Describe the use of a multiple assignment statement when you unpack a tuple.
-
+### [Miles Per Gallon Program](MilesPerGallonProgram/MilesPerGallonCode.ipynb)
 - open and close a file
 - write to a text file
 - read from a text file
@@ -69,6 +64,7 @@ sort(), min(), max(), choice(), shuffle(), and deepcopy().6. Differentiate betwe
 - handle a single exception
 - handle multiple exceptions
 
+### [Validation and Invoice Program](Validation&InvoicePrograms.ipynb)
 - work with floating point numbers
 - use the math module
 - how to use the format() method of a string
@@ -92,4 +88,25 @@ sort(), min(), max(), choice(), shuffle(), and deepcopy().6. Differentiate betwe
 - convert between dictionaries and lists
 - use dictionaries with complex objects as values
 
-## Click on any file and run the code to play a game and apply these exact skills!
+### [AI ChatBot](ChatbotPurchasePlan.ipynb)
+- Use the print() function to output a variety of data
+- Use the input() function to ask for multiple data types
+- Use basic arithmetic operations in a program
+- Use string methods and operations 
+- Use if/else if/else statements to determine the flow of the program
+- Comment your code
+- Debug your code
+- Test your code
+
+### [Random Character Generator](RandomCharacterGenerator.ipynb)
+- Use and call functions
+- Call a function with a parameter
+- Import the random module
+- Use if/else if/else statements to determine the flow of - the program
+- Comment your code
+- Debug your code
+- Test your code
+
+### [SQLite 3]()
+
+## Click on any file and run the code to play a game and apply these exact learning outcomes!
