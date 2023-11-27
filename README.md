@@ -107,10 +107,21 @@
 - Debug your code
 - Test your code
 
-### [SQLite 3](Sqlite3/UserData.ipynb)
+### [SQLite3](Sqlite3/UserData.ipynb)
 - use Python and SQLite to create a simple database file
 - use Python and SQLite to create a table
 - use Python and SQLite to select, insert, and update a table
 - use Python to output the results of a SQLite query
+
+### [Sqlite3 Python](Sqlite3_Python/Code.ipynb)
+Add User - create a new function that asks for input for the following fields:
+- first name
+- last name
+- email address
+- phone number
+- street address
+- city
+- state
+- zipcode
 
 ## Click on any file and run the code to play a game and apply these exact learning outcomes!
